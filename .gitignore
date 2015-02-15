@@ -7,4 +7,5 @@ tmp
 .idea
 .project
 *.lnk
+*.iml
 desktop.ini
