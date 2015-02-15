@@ -1,5 +1,7 @@
 # About
 
+jsHeader
+
 This is a fork of [Angular Seed](https://github.com/angular/angular-seed) but with full RequireJS support.
 
 * AngularJS 1.3.x (1.4.x might work)
